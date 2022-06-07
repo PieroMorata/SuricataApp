@@ -1,0 +1,100 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.card-link{
+    font-size: 0.75rem;
+    text-decoration: none;
+
+}
+
+.card-title{
+    color: #373A3C;
+    font-weight: 700;
+}
+
+.container-fluid{
+    padding: 0 6rem 0 6rem;
+}
+
+footer{
+    background-color: #E83E8C;
+    padding: 2rem 0 3.5rem 0;
+    text-align: center;
+}
+
+.footer-logo{
+    height: 6.25rem;
+    width: 3.5rem;
+}
+
+.list-group-item{
+    font-size: 0.75rem;
+}
+
+h1{
+    color: #707070;
+    font-size: 3.75rem;
+    font-weight: bold;
+    margin: 4rem 0 4.75rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: 700;
+    padding: 1rem 4.5rem 0 0;
+    vertical-align: middle;
+}
+
+
+
+
+.icono-pago{
+    height: 3.5rem;
+    padding-right: 1.75rem;
+    vertical-align: middle;
+   
+}
+
+.logo-suricata{
+top: 12px;
+left: 119px;
+width: 132px;
+height: 53px;
+background: transparent url('img/logo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+
+.navbar-nav .nav-item .nav-link{
+    color: #ffffff;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.icons-section{
+    background-color: #17A2B8;
+    color: #ffffff;
+    padding: 2.75rem 0 3.75rem 0;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+section div .card{
+    margin: 0 2.75rem 4rem 2.75rem;
+}
+
+.show-me-the-money{
+    display: inline-block;
+    
+}
+
+.toggler-color{
+    color: #FFFFFF7F;
+}
+
+.bg-custom-nav{
+    background-color: #E83E8C;
+}
